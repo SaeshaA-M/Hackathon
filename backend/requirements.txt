@@ -1,0 +1,12 @@
+fastapi
+pydantic
+joblib
+numpy
+pandas
+scikit-learn
+xgboost
+uvicorn
+requests
+flask
+flask-cors
+gunicorn

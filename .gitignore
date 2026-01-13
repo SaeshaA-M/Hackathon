@@ -1,0 +1,26 @@
+# Next.js
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+
+# deps
+frontend/node_modules/
+
+# env
+frontend/.env*
+backend/.env*
+.env*
+
+# misc
+.DS_Store
+
+# Next.js
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+
+# deps
+frontend/node_modules/
+
+.DS_Store
+.env*
